@@ -1,4 +1,4 @@
-## Clickesd-on-Ad?
+## Clicked-on-Ad?
 #### To indicate whether or not a user clicked on advertisement by using Logistic regression approach.
 
 About this Dataset:
